@@ -1,11 +1,16 @@
 _repo: Our-Women-in-the-War_56495
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 56495-h/images/cover.jpg
 creator:
   author:
     agent_name: Dawson, Francis Warrington
     gutenberg_agent_id: '48881'
     url: http://www.gutenberg.org/2009/agents/48881
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/56495#Our-Women-in-the-War
 gutenberg_issued: '2018-02-04'
 gutenberg_type: Text
 identifiers:
